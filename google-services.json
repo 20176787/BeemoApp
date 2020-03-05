@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "206642375706",
+    "firebase_url": "https://beemoapp-4ac62.firebaseio.com",
+    "project_id": "beemoapp-4ac62",
+    "storage_bucket": "beemoapp-4ac62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206642375706:android:5ad39555e82349dcd3b5a3",
+        "android_client_info": {
+          "package_name": "Beemo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206642375706-9lqj2kpd0ae0o3i0m6ob1uo04dnkfdsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzUNH3JX37Vbn05P0nXJgJ6xYnVIM0I_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206642375706-9lqj2kpd0ae0o3i0m6ob1uo04dnkfdsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206642375706:android:acab5cb54934e29ed3b5a3",
+        "android_client_info": {
+          "package_name": "beemo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206642375706-9lqj2kpd0ae0o3i0m6ob1uo04dnkfdsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzUNH3JX37Vbn05P0nXJgJ6xYnVIM0I_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206642375706-9lqj2kpd0ae0o3i0m6ob1uo04dnkfdsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
